@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/loading/icon_loading_00.png</file>
+        <file>image/loading/icon_loading_01.png</file>
+        <file>image/loading/icon_loading_02.png</file>
+        <file>image/loading/icon_loading_03.png</file>
+        <file>image/loading/icon_loading_04.png</file>
+        <file>image/loading/icon_loading_05.png</file>
+        <file>image/loading/icon_loading_06.png</file>
+        <file>image/loading/icon_loading_07.png</file>
+        <file>image/loading/icon_loading_08.png</file>
+        <file>image/loading/icon_loading_09.png</file>
+        <file>image/loading/icon_loading_10.png</file>
+        <file>image/loading/icon_loading_11.png</file>
+        <file>image/loading/icon_loading_12.png</file>
+        <file>image/loading/icon_loading_13.png</file>
+        <file>image/loading/icon_loading_14.png</file>
+        <file>image/loading/icon_loading_15.png</file>
+        <file>image/loading/icon_loading_16.png</file>
+        <file>image/loading/icon_loading_17.png</file>
+        <file>image/loading/icon_loading_18.png</file>
+        <file>image/loading/icon_loading_19.png</file>
+        <file>image/loading/icon_loading_20.png</file>
+        <file>image/loading/icon_loading_21.png</file>
+        <file>image/loading/icon_loading_22.png</file>
+        <file>image/loading/icon_loading_23.png</file>
+        <file>image/loading/icon_loading_24.png</file>
+        <file>image/loading/icon_loading_25.png</file>
+        <file>image/loading/icon_loading_26.png</file>
+        <file>image/loading/icon_loading_27.png</file>
+        <file>image/loading/icon_loading_28.png</file>
+        <file>image/loading/icon_loading_29.png</file>
+        <file>AnimationLoading.qml</file>
+        <file>WinnerPlayer.qml</file>
+        <file>image/win.gif</file>
+        <file>PlayScreen.qml</file>
+        <file>WinScreen.qml</file>
+        <file>Data.txt</file>
+        <file>SubScreen.qml</file>
+    </qresource>
+</RCC>
